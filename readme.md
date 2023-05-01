@@ -1,44 +1,34 @@
-Sure, here's an updated README file with emojis that match the Razorpay-LandingPage-Clone:
 
-# 🚀 Razorpay-LandingPage-Clone
+# My Profile
 
-This project is a clone of the landing page for the payment gateway service Razorpay, built using HTML and Tailwind CSS. The clone includes animations and is designed to look exactly like the original landing page.
+<img src="./Screenshot P1.png">
+<img src="./Screenshot P2.png">
 
-## 🌐 Live Demo
+This is a basic project that demonstrates my personal profile using HTML, CSS, and JavaScript.
 
-You can see a live demo of the project at [insert link to live demo if available].
+## Installation
 
-## 🛠️ Installation
+To use this project, simply clone or download the repository to your local machine.
 
-To run this project locally, follow these steps:
-
-1. Clone the repository to your local machine using the command:
-
-```
-git clone https://github.com/[insert your username]/Razorpay-LandingPage-Clone.git
+```bash
+git clone https://github.com/YashMishra0101/My-Profile
 ```
 
-2. Navigate to the project directory:
+## Features
 
-```
-cd Razorpay-LandingPage-Clone
-```
+This project features the following:
 
-3. Open index.html in your web browser.
+- A basic HTML layout that displays my personal information, including my name, photo, and bio.
+- Custom CSS styles to enhance the appearance of the page and make it responsive.
+- JavaScript animations that add interactivity to the page.
 
-## 🚀 Features
+## Contributing
 
-- 🎨 Animations: The clone includes animations that mimic those found on the original landing page.
-- 📱 Responsive Design: The clone is fully responsive and optimized for various screen sizes.
-- 🎉 Tailwind CSS: The clone was built using the Tailwind CSS framework, making it easy to style and customize.
+I welcome contributions from anyone who finds this project interesting or helpful. Feel free to fork the repository and submit a pull request if you would like to make any changes.
 
-## 👥 Contributing
+## Contact 
 
-Contributions to this project are welcome! If you find a bug or would like to suggest an improvement, please open a new issue or create a pull request.
+If you have any questions or suggestions, please feel free to contact me on:
 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to reach out to me on LinkedIn or Twitter:
-
-- LinkedIn: [insert your LinkedIn profile link]
-- Twitter: [insert your Twitter profile link]
+- LinkedIn: https://www.linkedin.com/in/yash-mishra-356280223
+- Twitter: https://twitter.com/YashRKMishra1
