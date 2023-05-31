@@ -1,9 +1,8 @@
 
 # My Profile
 
-<img src="./Screenshot P2.png">
-<img src="./Screenshot P1.png">
-
+![Screenshot](./Screenshot%20P1.png)
+![Screenshot](./Screenshot%20P2.png)
 
 This is a basic project that demonstrates my personal profile using HTML, CSS, and JavaScript.
 
